@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "usuario_id": 1,
+      "servicio": "Servicio Punta Arenas One Way Multitemperatura",
+      "fecha_contable_nv": "15-03-24",
+      "estado_de_servicio": "En curso",
+      "documentacion_viaje": "link",
+      "valor_servicio": "112.222",
+      "estado_proforma": "En revisión cliente",
+      "numero_orden_conductor": "",
+      "numero_factura": "",
+      "estado_factura": "Pendiente emisión",
+      "fecha_emision_factura": ""
+    },
+    {
+      "usuario_id": 2,
+      "servicio": "Servicio Calama IDA Seco",
+      "fecha_contable_nv": "02-02-24",
+      "estado_de_servicio": "Realizado",
+      "documentacion_viaje": "link",
+      "valor_servicio": "343.344",
+      "estado_proforma": "Validada Cliente",
+      "numero_orden_conductor": "222",
+      "numero_factura": "4223",
+      "estado_factura": "Pendiente Pago",
+      "fecha_emision_factura": "26-02-24"
+    },
+    {
+      "usuario_id": 3,
+      "servicio": "Servicio Curico-San Fernando",
+      "fecha_contable_nv": "01-02-24",
+      "estado_de_servicio": "Realizado",
+      "documentacion_viaje": "link",
+      "valor_servicio": "43.224",
+      "estado_proforma": "Pendiente",
+      "numero_orden_conductor": "22332",
+      "numero_factura": "2223",
+      "estado_factura": "Pendiente emisión",
+      "fecha_emision_factura": "26-02-24"
+    }
+  ]
+}
