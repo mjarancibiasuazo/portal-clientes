@@ -9,7 +9,7 @@
       "documentacion_viaje": "link",
       "valor_servicio": "112.222",
       "estado_proforma": "En revisión cliente",
-      "numero_orden_conductor": "",
+      "numero_orden_compra": "",
       "numero_factura": "",
       "estado_factura": "Pendiente emisión",
       "fecha_emision_factura": ""
@@ -24,7 +24,7 @@
       "documentacion_viaje": "link",
       "valor_servicio": "343.344",
       "estado_proforma": "Validada Cliente",
-      "numero_orden_conductor": "222",
+      "numero_orden_compra": "222",
       "numero_factura": "4223",
       "estado_factura": "Pendiente Pago",
       "fecha_emision_factura": "26-02-24"
@@ -39,7 +39,7 @@
       "documentacion_viaje": "link",
       "valor_servicio": "43.224",
       "estado_proforma": "Resolución",
-      "numero_orden_conductor": "22332",
+      "numero_orden_compra": "22332",
       "numero_factura": "2223",
       "estado_factura": "Pendiente emisión",
       "fecha_emision_factura": "26-02-24"
