@@ -3,6 +3,7 @@
     {
       "usuario_id": 1,
       "servicio": "Servicio Punta Arenas One Way Multitemperatura",
+      "codigo": vt-1324,
       "fecha_contable_nv": "15-03-24",
       "estado_de_servicio": "En curso",
       "documentacion_viaje": "link",
@@ -16,6 +17,7 @@
     {
       "usuario_id": 2,
       "servicio": "Servicio Calama IDA Seco",
+      "codigo": vt-1325,
       "fecha_contable_nv": "02-02-24",
       "estado_de_servicio": "Realizado",
       "documentacion_viaje": "link",
@@ -29,6 +31,7 @@
     {
       "usuario_id": 3,
       "servicio": "Servicio Curico-San Fernando",
+      "codigo": vt-1326,
       "fecha_contable_nv": "01-02-24",
       "estado_de_servicio": "Realizado",
       "documentacion_viaje": "link",
