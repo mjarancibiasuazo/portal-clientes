@@ -3,7 +3,7 @@
     {
       "usuario_id": 1,
       "servicio": "Servicio Punta Arenas One Way Multitemperatura",
-      "equipo": "C-1324",
+      "tracto": "C-1324",
       "fecha_contable_nv": "15-03-24",
       "estado_de_servicio": "En curso",
       "documentacion_viaje": "link",
