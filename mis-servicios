@@ -3,7 +3,8 @@
     {
       "usuario_id": 1,
       "servicio": "Servicio Punta Arenas One Way Multitemperatura",
-      "tracto": "C-1324",
+      "destino": "Punta Arenas",
+      "patente": "C-1324",
       "fecha_contable_nv": "15-03-24",
       "estado_de_servicio": "En curso",
       "documentacion_viaje": "link",
@@ -17,8 +18,9 @@
     {
       "usuario_id": 2,
       "servicio": "Servicio Calama IDA Seco",
-      "tracto": "T-1125",
-      "rampla": "S-1126",
+      "destino": "Calama",
+      "patente": "T-1125",
+      "patente": "S-1126",
       "fecha_contable_nv": "02-02-24",
       "estado_de_servicio": "Realizado",
       "documentacion_viaje": "link",
@@ -32,6 +34,7 @@
     {
       "usuario_id": 3,
       "servicio": "Servicio Curico-San Fernando",
+      "destino": "Curico-San Fernando",
       "tracto": "T-1130",
       "rampla": "S-1131",
       "fecha_contable_nv": "01-02-24",
